@@ -1,0 +1,11 @@
+{
+  "name": "mirofish-lite",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Light, bring-your-own-key social-simulation reports for any product document.",
+  "scripts": {
+    "dev": "node dev/server.js",
+    "test": "node dev/test-engine.js"
+  },
+  "engines": { "node": ">=18" }
+}
